@@ -26,7 +26,7 @@ To get started with the Explore Dataset By Questions project, follow these steps
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/your-username/explore-dataset-questions.git
+    git clone https://github.com/syed-muqtasid-ali/explore-dataset-questions.git
     ```
 
 2. **Navigate to the project directory**:
